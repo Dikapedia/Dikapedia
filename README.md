@@ -9,13 +9,6 @@ Warm greetings, I'm Hardika. Just a kid from Pemalang, currently learning full-s
 <!--START_SECTION:waka-->
 
 
-**I Mostly Code in TypeScript**
-
-```text
-TypeScript               15 repos            ████████░░░░░░░░░░░░░░░░░    29.41 %
-JavaScript               14 repos            ███████░░░░░░░░░░░░░░░░░░    27.45 %
-```
-
 <!--END_SECTION:waka-->
 
 <div align="center">
