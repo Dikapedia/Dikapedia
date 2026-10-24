@@ -3,9 +3,8 @@
 </p>
 
 Warm greetings, I'm Hardika. Just a kid from Pemalang, currently learning full-stack web development and I create random stuffs and then publishing it for everyone.
-<div align="center">
 <img src="https://raw.githubusercontent.com/Dikapedia/Dikapedia/main/qa.svg" alt="Ray Ozzie" width="400">
-
+<div align="center">
 ### Connect & Collaborate
 
 <a href="https://www.instagram.com/hrdiika"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
