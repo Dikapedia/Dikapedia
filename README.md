@@ -9,8 +9,7 @@ Warm greetings, I'm Hardika. Just a kid from Pemalang, currently learning full-s
 <!--END_SECTION:waka-->
 <div align="center">
 <br><br>
-
-<img src="https://raw.githubusercontent.com/Dikapedia/Dikapedia/main/quote.svg" alt="Quote by Ray Ozzie" width="450">
+<img src="https://raw.githubusercontent.com/Dikapedia/Dikapedia/main/quote.svg" alt="Quote by Ray Ozzie" width="350">
 
 ### Connect & Collaborate
 
