@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190">
-  <rect width="800" height="190" rx="14" fill="#1c1c28"/>
-  <text x="40" y="62" font-family="Arial, Helvetica, sans-serif" font-size="40" font-style="italic" fill="#b48ef7">“</text>
-  <text x="70" y="70" font-family="Arial, Helvetica, sans-serif" font-size="28" font-style="italic" fill="#2ec4a6">Programming is the ultimate field for</text>
-  <text x="70" y="106" font-family="Arial, Helvetica, sans-serif" font-size="28" font-style="italic" fill="#2ec4a6">someone who likes to tinker.<tspan fill="#b48ef7" font-size="40">”</tspan></text>
-  <text x="760" y="160" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="22" font-style="italic" fill="#6c9bff">- Ray Ozzie (programmer)</text>
-</svg>
