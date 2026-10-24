@@ -8,7 +8,6 @@ Warm greetings, I'm Hardika. Just a kid from Bekasi, currently learning full-sta
 
 <!--START_SECTION:waka-->
 
-**I'm an Early 🐤**
 
 **I Mostly Code in TypeScript**
 
@@ -21,13 +20,13 @@ JavaScript               14 repos            ███████░░░░�
 
 <div align="center">
 
-### 📬 Connect & Collaborate
+### Connect & Collaborate
 
 <a href="https://www.instagram.com/hrdiika"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/hardika-pangestu-0a9205391/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Dikapedia/Dikapedia/main/quote.svg" alt="Quote by Ray Ozzie" width="800">
+<img src="https://raw.githubusercontent.com/Dikapedia/Dikapedia/main/quote.svg" alt="Quote by Ray Ozzie" width="450">
 
 </div>
